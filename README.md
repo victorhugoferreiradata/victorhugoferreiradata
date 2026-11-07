@@ -1,40 +1,60 @@
  
-##
- ### 💻 Hello world! 💻
-##
- 
-### Eu sou Victor Hugo Ferreira. Goiano, apaixonado por esportes, games e cinema. 
-### Estudante e **futuro desenvolvedor Full-Stack** . <br>
-##
-<br>
+<h1 align="center">Olá, eu sou [Seu Nome] 👋</h1>
+<h3 align="center">[Seu Cargo / Ex: Analista de Dados | Cientista de Dados]</h3>
 
-<div align="center">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=victorhugoferreira&show_icons=true&theme=transparent&title_color=4B0082&hide_title=true&hide_border=true&icon_color=4B0082&text_color=000000&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugoferreira&layout=compact&langs_count=7&theme=transparent&title_color=4B0082&hide_title=true&hide_border=true&icon_color=4B0082&text_color=000000&include_all_commits=true&count_private=true"/>  
-</div>
+<p align="center">
+  <b>Transformando dados brutos em decisões estratégicas.</b><br>
+  Focado em SQL, Python, Power BI/Tableau e Engenharia de Dados básica.
+</p>
 
-##
-<br>
+---
 
-  ### Linguagens e ferramentas:
-  
-  
- <div style="display: inline_block"><br>
-  <img align="center" alt="Victor-Js" height="50" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Victor-React" height="50" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Victor-HTML" height="50" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Victor-CSS" height="50" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Victor-Trello" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-    <img align="center" alt="Victor-Slack" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
-</div>
+## 🚀 Sobre mim
 
-##
+- 🔭 Atualmente estou trabalhando/estudando: **[Ex: SQL avançado e Modelagem de Dados]**
+- 💡 Meus principais interesses: **[Ex: Machine Learning aplicado, Business Intelligence, Data Storytelling]**
+- ⚡ Curiosidade: **[Ex: Gosto de analisar dados do futebol / finanças / logística]**
+- 📫 Como me encontrar: 
+  - [LinkedIn](https://linkedin.com)
+  - [Portfólio / Medium](https://seu-site.com)
+  - [E-mail](mailto:seu-email@exemplo.com)
 
-### Contato:
+---
 
-  
-  <a href = "https://criarmeulink.com.br/u/1673910638"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/victorhugoferreiradev"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+## 🛠️ Stack Tecnológica (Dados)
+
+<p align="center">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+---
+
+## 📊 Principais Projetos
+
+* **[Nome do Projeto 1](link-do-repositorio)** — Breve descrição do problema de negócio resolvido, dados utilizados e ferramentas (ex: *Análise de Churn de Clientes usando Python e Scikit-Learn*).
+* **[Nome do Projeto 2](link-do-repositorio)** — Breve descrição (ex: *Dashboard interativo de Vendas no Power BI com conexão SQL*).
+* **[Nome do Projeto 3](link-do-repositorio)** — Breve descrição (ex: *Pipeline de ETL automatizado em Python consumindo API pública*).
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180rc" src="https://vercel.app" />
+  <img height="180rc" src="https://vercel.app" />
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" />
+</p>
+
 
 ##
 
